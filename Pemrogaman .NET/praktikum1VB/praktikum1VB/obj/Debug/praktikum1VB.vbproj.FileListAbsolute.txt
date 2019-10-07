@@ -1,0 +1,10 @@
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\bin\Debug\praktikum1VB.exe.config
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\bin\Debug\praktikum1VB.exe
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\bin\Debug\praktikum1VB.pdb
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\bin\Debug\praktikum1VB.xml
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.Form1.resources
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.Resources.resources
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.vbproj.GenerateResource.Cache
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.exe
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.xml
+E:\Pemrogaman.NET\praktikum1VB\praktikum1VB\obj\Debug\praktikum1VB.pdb
