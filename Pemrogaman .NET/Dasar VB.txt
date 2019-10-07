@@ -1,0 +1,21 @@
+Tipe Data
+
+- Boolean	True atau False
+
+- Byte		0 S/D 255
+
+- Char		0 S/D 65.535
+
+- Date		January 1, 1 CE S/D December 31 9999
+
+- Decimal	+/- 9,228,162,514,264,337,593,543, 950,335 nilai bukan nol terkecil : +/-.0000000000000000000000000001
+
+- Single	3.402823E38 s/d -1.401298E-45 untuk nilai negatif : 1.401298E-45 s/d 3.402823E38 untuk nilai positif.
+
+- Double	1.79769313486231E308 s/d -4.94065645841247E-324 untuk nilai negatif : 4.94065645841247E-324 s/d 1.79769313486232E308 untuk nilai positif
+
+- Integer	– 2,147,483,648 s/d 2,147,483,647
+
+- Short		-32,768 s/d 32,767
+
+- Long		– 9,223,372,036,854,775,808 s/d 9,223,372,036,854,775,807
